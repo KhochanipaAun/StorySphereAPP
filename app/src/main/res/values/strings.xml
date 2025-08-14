@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">storysphere</string>
+    <string name="login">Log In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Forgotpassword">Forgot your password?</string>
+    <string name="Signup">SIGNUP</string>
+    <string name="Name">Name</string>
+    <string name="Hide">Hide</string>
+    <string name="Show">Show</string>
+    <string name="newpassword">New Password</string>
+    <string name="changepassword">Change Password</string>
+    <string name="create">Create</string>
+    <string name="edit">Edit</string>
+
+        <string-array name="categories_array">
+            <item>Fiction</item>
+            <item>Non-fiction</item>
+            <item>Fantasy</item>
+            <item>Science Fiction</item>
+            <item>Mystery</item>
+            <item>Romance</item>
+            <item>Horror</item>
+            <item>Biography</item>
+            <item>Poetry</item>
+            <item>Other</item>
+        </string-array>
+
+</resources>

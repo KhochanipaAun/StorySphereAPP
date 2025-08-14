@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- เมนูสำหรับการออกจากระบบ (Logout) -->
+    <item
+        android:id="@+id/action_logout"
+        android:title="Logout"
+        app:showAsAction="never" />
+
+    <!-- ตัวอย่าง: เมนูสำหรับ Admin Panel (ถ้ามี) - ถูกซ่อนไว้โดยปกติ -->
+    <item
+        android:id="@+id/action_admin_panel"
+        android:title="Admin Panel"
+        app:showAsAction="never" />
+</menu>
